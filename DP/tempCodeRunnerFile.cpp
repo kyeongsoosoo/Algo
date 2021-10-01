@@ -1,0 +1,1 @@
+cout << DP[weight][num];
