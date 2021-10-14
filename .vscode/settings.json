@@ -3,6 +3,8 @@
         "ostream": "cpp",
         "iostream": "cpp",
         "vector": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "deque": "cpp",
+        "complex": "cpp"
     }
 }
