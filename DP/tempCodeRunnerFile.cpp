@@ -1,1 +1,2 @@
-cout << DP[weight][num];
+
+    cout.tie(0);
