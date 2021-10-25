@@ -38,7 +38,7 @@ int DFS(int x, int visited){
         DP[x][visited] = 
             min(DP[x][visited], DFS(x + 1, visited | (1 << i)) + num[x][i]);
     }
-    cout << DP[x][visited] << '\n';
+    
     return DP[x][visited];
 }
 
