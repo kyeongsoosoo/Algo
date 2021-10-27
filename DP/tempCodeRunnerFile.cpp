@@ -1,2 +1,2 @@
 
-    cout.tie(0);
+        caseInput();
