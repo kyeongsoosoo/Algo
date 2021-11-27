@@ -1,1 +1,1 @@
-cout << "start: " << start << " end: " << end << " cost: " << cost << '\n';
+cout << "start " << len[S][G] << " " << len[H][candi] << " " << Must << " " << len[S][candi]<< '\n';
