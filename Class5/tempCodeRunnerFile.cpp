@@ -1,1 +1,1 @@
-cout << sum << '\n';
+    cout << "color: " << color << " " << ball.y << " " << ball.x << '\n';
