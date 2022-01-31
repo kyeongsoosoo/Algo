@@ -9,7 +9,7 @@ using namespace std;
 
 int N, M, Max_cost, start, fac_end;
 bool visit[MAX];
-vector<pair<int, int>> V[MAX];
+vector<pair<int, int> > V[MAX];
 
 void input(){
     ios::sync_with_stdio(false);
