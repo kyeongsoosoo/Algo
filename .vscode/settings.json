@@ -2,6 +2,8 @@
   "C_Cpp.errorSquiggles": "Disabled",
   "files.associations": {
     "iostream": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "ios": "cpp",
+    "vector": "cpp"
   }
 }
