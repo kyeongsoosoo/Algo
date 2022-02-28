@@ -1,1 +1,1 @@
-e
+cout << " node: " << node << " val: " << seg[node] << '\n';
