@@ -5,6 +5,7 @@
 #include <vector>
 
 #define MAX 40001
+#define BIT_MAX 17
 
 using namespace std;
 
