@@ -67,6 +67,7 @@
     "system_error": "cpp",
     "tuple": "cpp",
     "typeinfo": "cpp",
-    "unordered_map": "cpp"
+    "unordered_map": "cpp",
+    "memory_resource": "cpp"
   }
 }
